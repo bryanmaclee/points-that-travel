@@ -1,6 +1,6 @@
 # Points That Travel
 
-This is the companion to [my post on engagement farming](LINK-TO-THE-ARTICLE). That post is the idea. This repo is the machinery: the full system, the simulation, every way we tried to break it, and the places where it still breaks.
+This is the companion to [my post on engagement farming](https://coderlegion.com/29904/i-am-jacks-profile-engagement). That post is the idea. This repo is the machinery: the full system, the simulation, every way we tried to break it, and the places where it still breaks.
 
 The one-line version of the whole thing:
 
